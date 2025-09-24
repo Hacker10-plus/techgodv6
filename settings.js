@@ -17,7 +17,7 @@ global.ytname = "YT: SHADOW STARCORE"
 global.socialm = "GitHub: dark-tech-zone"
 global.location = "India, Delhi, city"
 
-global.ownernumber = '916378704507'  //creator number
+global.ownernumber = '22897174553'  //creator number
 global.ownername = 'AASHISH' //owner name
 global.botname = 'AASHISH ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
